@@ -14,3 +14,12 @@ h2 {
 .established {
     font-style: italic;
 }
+
+.menu {
+    background-color: burlywood;
+    width: 80%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
