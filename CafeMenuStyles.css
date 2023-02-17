@@ -25,27 +25,15 @@ h2 {
 }
 
 .item p {
-    display: inline;
+    display: inline-block;
 }
 
-.flavor {
-    background-color: white;
+.flavor, .dessert{
     width: 70%;
     text-align: left;
-    padding: 20px;
-    border-radius: 25px;
-    margin: 10px;
 }
 
 .price {
-    background-color: white;
     width: 30%;
     text-align: right;
-    padding: 20px;
-    border-radius: 25px;
-
-}
-
-.price:hover, .flavor:hover {
-    background-color: antiquewhite;
 }
