@@ -23,3 +23,26 @@ h2 {
     margin-right: auto;
     padding: 20px;
 }
+
+.item p {
+    display: inline;
+}
+
+.flavor {
+    background-color: white;
+    width: 70%;
+    text-align: left;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.price {
+    background-color: white;
+    width: 30%;
+    text-align: right;
+    padding: 20px;
+    border-radius: 25px;
+    margin: 10px;
+
+}
