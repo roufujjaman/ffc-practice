@@ -28,6 +28,14 @@ h2 {
     display: inline-block;
 }
 
+.item p:hover{
+    color: teal;
+}
+
+.item p:active{
+    color: rgb(141, 232, 232);
+}
+
 .flavor, .dessert{
     width: 70%;
     text-align: left;
