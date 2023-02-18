@@ -52,6 +52,12 @@ h1, h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }/* FOOTER */
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 footer {
     font-size: 14px;
   }
